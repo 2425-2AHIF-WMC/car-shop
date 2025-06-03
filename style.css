@@ -1,0 +1,17 @@
+/* style.css */
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2 {
+    letter-spacing: 1px;
+}
+
+a:hover {
+    transition: all 0.2s ease-in-out;
+}
+
+.hero-section {
+    backdrop-filter: blur(4px);
+    border-radius: 12px;
+}
